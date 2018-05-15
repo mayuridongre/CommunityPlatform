@@ -1,0 +1,16 @@
+**1.Developer** : Helperbit\\ 
+**2.Humanitarian Partner (if different)** : NA\\ 
+**3.Sector** : Early Recovery, Disaster Response \\ 
+**4.Scope** : Humanitarian/National \\ 
+**5.Region** : Europe \\ 
+**6.Location** : Italy\\ 
+**7.Stage of Development**: Early stage\\
+**8.Nodes active (if any)** : \\ 
+**9.Users active** : \\
+**10.Platform** : Own platform \\
+**11.Data Strategy** : \\
+**12.Data Protection Framework** : \\
+**13.Source Code** : Undisclosed \\
+**14.Academic research / Paper** :\\
+**15.White Paper**: \\
+**16.Project page** : [[https://app.helperbit.com/projects?page=0&sort=desc&orderby=owner]] \\ 
