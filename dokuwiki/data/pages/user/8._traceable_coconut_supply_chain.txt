@@ -1,8 +1,0 @@
-**1.Developer** : Fairfood\\ 
-**2.Humanitarian Partner (if different)** : NA\\ 
-**3.Sector** : Logistics, Protection \\ 
-**4.Scope** : Humanitarian/Transnational\\ 
-**5.Region** : Southeast Asia \\ 
-**6.Location** : Indonesia\\ 
-**7.Project page** : https://fairfood.nl/en/blockchain/ \\ 
-**8.More information** : https://fairfood.nl/wp-content/uploads/2018/01/Position-Paper-On-Blockchains-1.pdf

@@ -1,8 +1,0 @@
-**1.Developer** : Ixo Foundation\\ 
-**2.Humanitarian Partner (if different)** :UNICEF, Innovation Edge \\ 
-**3.Sector** : Education, Financing, Assistance \\ 
-**4.Scope** : Humanitarian/National\\ 
-**5.Region** :Southern Africa\\ 
-**6.Location** : South Africa\\ 
-**7.Project page** :  http://amply.tech/ \\ 
-**8.More information** : http://ixo.foundation/
