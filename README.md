@@ -1,4 +1,4 @@
-"Welcome to Community Humanitarian Blockchain Platform
+Welcome to Community Humanitarian Blockchain Platform
 
 
 ```markdown
