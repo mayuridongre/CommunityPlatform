@@ -1,0 +1,23 @@
+======Description of the Smart-cash in Venezuela project ======
+
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Smart-cash | 
+^ Humanitarian Partner (if different)    | NA |                    
+^ Sector     | Food Security           | 
+^ Scope | Humanitarian/National| 
+^ Region | South America       | 
+^ Location | Venezuela| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform| Smart-cash platform | 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper|
+^ Project page|https://steemit.com/smartcash/@smartcash/smartcash-taking-venezuela-by-storm-community-updates |
+^ More information| |

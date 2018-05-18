@@ -1,0 +1,22 @@
+======Description of Financial Transparency for education project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Financial Transparency for education| 
+^ Humanitarian Partner (if different)    |Positive Women|                    
+^ Sector     | Assistance, Protection, Education       | 
+^ Scope |Human Rights/National| 
+^ Region |Southern Africa| 
+^ Location |Swaziland| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform  |N/A| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper| |
+^ Project page|     |
+^ More information| https://www.reuters.com/article/us-aid-blockchain/leading-charities-look-to-blockchain-to-reduce-losses-and-track-financial-aid-idUSKBN19X0A1|

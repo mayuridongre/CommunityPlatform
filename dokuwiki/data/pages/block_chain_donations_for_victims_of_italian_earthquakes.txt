@@ -1,0 +1,24 @@
+====== Description of Block-chain donations for victims of Italian earthquakes project ======
+ \\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Helperbit| 
+^ Humanitarian Partner (if different)    | NA |                    
+^ Sector     |Early Recovery, Disaster Response          | 
+^ Scope | Humanitarian/National         | 
+^ Region |Europe    | 
+^ Location |Italy| 
+^ Stage of Development| Early stage | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform| Own platform  | 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Framework | 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed|
+^ White Paper|
+^ Project page| [[https://app.helperbit.com/projects?page=0&sort=desc&orderby=owner]]|
+^ More information| |
+
+

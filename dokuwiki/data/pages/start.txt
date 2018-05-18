@@ -1,0 +1,268 @@
+====== Welcome to Humanitarian Block chain Community ======                                                                       
+
+                                                                                                                                         
+
+\\
+===== Current Projects Map: =====
+
+<olmap id="olMapOne" width="550px" height="450px" lat="50.0" lon="5.1" zoom="12" statusbar="1" controls="1" poihoverstyle="1" baselyr="google road" gpxfile="" kmlfile="" geojsonfile="" summary="" >
+~~ Plugin olmap help.
+~~ Required in the above tag are values for: id (unique on this page), width, heigth.
+~~ Also you will want to enter zoomlevel and lat, lon values that make sense for where you want the map to start.
+
+~~ Below is an example of a POI, you can add as many as you want. ~~ More examples: http://dokuwiki.org/plugin:openlayersmap 
+7.946527,-1.023194,-90,.8,marker-red.png,Western Africa; Ghana \\ internal link: [[::start]]\\
+-0.78927,113.92132,60,.8,marker-green.png,Indonesia;southeast asia \\
+41.87193,12.56737,60,.8,marker-blue.png,europe;Italy \\
+30.58516,36.23841,60,.8,marker-pink.png,Jordan \\
+-0.02355,37.90619,60,.8,marker-green.png,kenya;eastafrica \\
+33.85472,35.86228,60,.8,marker-gold.png,lebanon;middleeast \\
+21.91622,95.95597,60,.8,marker-red.png,myanmar;asia \\
+31.46288,74.41378,60,.8,marker-gold.png,pakistan;middle east \\
+61.52401,105.31875,60,.8,marker-red.png,russia;asia \\
+-30.55948,22.9375,60,.8,marker-pink.png,south africa;southern africa \\
+-26.5225,31.46586,60,.8,marker-black.png,southern africa \\
+46.4311,6.9109,60,.8,marker-green.png,switzerland;middle east \\
+15.87003,100.99254,60,.8,marker-red.png,thailand;southeast asia \\
+6.42375,-66.58973,60,.8,marker-gold.png,venezuela;south america \\ **DW Formatting** 
+</olmap> \\
+
+
+
+==== Current Projects ====
+
+^ Serial No.      ^ Name of the Projects                                                         ^
+| 1              | [[ Block chain credit cards for Syrian refugees in Lebanon]] \\     ||
+| 2              | [[  Block chain donations for victims of Italian earthquakes]] \\     ||
+| 3              | [[  Building Blocks]] \\     ||
+| 4              | [[ Smart cash in Venezuela]] \\     ||
+| 5              | [[ Tracking tuna on the block chain]] \\     ||
+| 6              | [[ Diamond supply chains]] \\     ||
+| 7              | [[ Traceable cobalt supply chain from the DRC]] \\     ||
+| 8              | [[ Traceable coconut supply chain]] \\     ||
+| 9              | [[  Digital identity for refugees]] \\     ||
+| 10             | [[  Land-mapping in Latin America]] \\     ||
+| 11             | [[  Financial Involvement for the Unbanked]] \\     ||
+| 12             | [[  Myanmar - Thailand Money Transfers]] \\     ||
+| 13             | [[  Thailand - Russia Money Transfer]] \\     ||
+| 14             | [[  Financial Transparency for education]] \\     ||
+| 15             | [[  Project Zero Invisible Children (ZINC)]] \\     ||
+| 16             | [[  Amply]] \\     ||
+| 17             | [[  DLT for Humanitarian Islamic Financing]] \\     ||
+
+\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

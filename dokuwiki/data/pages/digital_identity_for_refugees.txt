@@ -1,0 +1,22 @@
+======Description of Digital identity for refugees project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | BanQu| 
+^ Humanitarian Partner (if different)    |Opportunity International|                    
+^ Sector     |Logistics, Protection         | 
+^ Scope |Humanitarian/Local| 
+^ Region | Eastern Africa| 
+^ Location | Kenya| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform|BanQu App| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper| |
+^ Project page|     |
+^ More information|http://www.banquapp.com/our-solutions/pilots/|

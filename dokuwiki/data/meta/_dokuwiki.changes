@@ -1,0 +1,87 @@
+1526444279	::1	E	start	mayuri			956
+1526492759	::1	E	start	mayuri			-1
+1526493063	::1	E	start	mayuri			5
+1526495103	::1	E	start	mayuri			2
+1526502806	::1	E	start	mayuri			37
+1526504002	::1	E	start	mayuri			79
+1526504120	::1	E	start	mayuri			53
+1526504162	::1	E	start	mayuri			-3
+1526504814	::1	E	start	mayuri			1132
+1526504968	::1	E	start	mayuri			15
+1526505402	::1	E	start	mayuri			-40
+1526505612	::1	E	start	mayuri			2
+1526507158	::1	C	block_chain_credit_cards_for_syrian_refugees_in_lebanon	mayuri	created		760
+1526507303	::1	E	block_chain_credit_cards_for_syrian_refugees_in_lebanon	mayuri			56
+1526507511	::1	C	block_chain_donations_for_victims_of_italian_earthquakes	mayuri	created		97
+1526507619	::1	E	block_chain_donations_for_victims_of_italian_earthquakes	mayuri			719
+1526507976	::1	E	block_chain_donations_for_victims_of_italian_earthquakes	mayuri			-68
+1526508104	::1	E	block_chain_credit_cards_for_syrian_refugees_in_lebanon	mayuri			-3
+1526508416	::1	C	building_blocks	mayuri	created		820
+1526508461	::1	E	user:3._building_blocks	mayuri			-1
+1526508556	::1	C	smart_cash_in_venezuela	mayuri	created		65
+1526508604	::1	E	smart_cash_in_venezuela	mayuri			715
+1526526166	::1	E	smart_cash_in_venezuela	mayuri			-48
+1526526739	::1	E	smart_cash_in_venezuela	mayuri			2
+1526526950	::1	C	tracking_tuna_on_the_block_chain	mayuri	created		69
+1526528088	::1	E	tracking_tuna_on_the_block_chain	mayuri			652
+1526528150	::1	C	diamond_supply_chains	mayuri	created		710
+1526528421	::1	E	diamond_supply_chains	mayuri			-52
+1526528872	::1	C	traceable_cobalt_supply_chain_from_the_drc	mayuri	created		739
+1526528926	::1	E	traceable_cobalt_supply_chain_from_the_drc	mayuri			8
+1526529142	::1	C	traceable_coconut_supply_chain	mayuri	created		757
+1526529152	::1	E	traceable_coconut_supply_chain	mayuri			-1
+1526529436	::1	E	traceable_coconut_supply_chain	mayuri			80
+1526529705	::1	C	digital_identity_for_refugees	mayuri	created		685
+1526529914	::1	C	land-mapping_in_latin_america	mayuri	created		689
+1526530186	::1	C	financial_involvement_for_the_unbanked	mayuri	created		778
+1526530643	::1	C	myanmar_-_thailand_money_transfers	mayuri	created		720
+1526530806	::1	C	thailand_-_russia_money_transfer	mayuri	created		706
+1526531061	::1	C	financial_transparency_for_education	mayuri	created		822
+1526531376	::1	C	project_zero_invisible_children_zinc	mayuri	created		753
+1526531592	::1	C	amply	mayuri	created		685
+1526531794	::1	C	dlt_for_humanitarian_islamic_financing	mayuri	created		703
+1526532203	::1	D	user:mayuri	mayuri	removed		-776
+1526532225	::1	D	user:1._blockchain_credit_cards_for_syrian_refugees_in_lebanon	mayuri	removed		-690
+1526532241	::1	D	user:2._blockchain_donations_for_victims_of_italian_earthquakes	mayuri	removed		-616
+1526532257	::1	D	user:3._building_blocks	mayuri	removed		-747
+1526532274	::1	D	user:4._smartcash_in_venezuela	mayuri	removed		-365
+1526532285	::1	D	user:5._tracking_tuna_on_the_blockchain	mayuri	removed		-368
+1526532304	::1	D	user:6._diamond_supply_chains	mayuri	removed		-308
+1526532337	::1	D	user:7._traceable_cobalt_supply_chain_from_the_drc	mayuri	removed		-376
+1526532354	::1	D	user:8._traceable_coconut_supply_chain	mayuri	removed		-396
+1526532372	::1	D	user:9._digital_identity_for_refugees	mayuri	removed		-333
+1526532384	::1	D	user:10._land-mapping_in_latin_america	mayuri	removed		-341
+1526532398	::1	D	user:11._financial_involvement_for_the_unbanked	mayuri	removed		-393
+1526532412	::1	D	user:12._myanmar_-_thailand_money_transfers	mayuri	removed		-362
+1526532429	::1	D	user:13._thailand_-_russia_money_transfer	mayuri	removed		-352
+1526532442	::1	D	user:14._financial_transparency_for_education	mayuri	removed		-469
+1526532452	::1	D	user:15._project_zero_invisible_children_zinc	mayuri	removed		-327
+1526532464	::1	D	user:16._amply	mayuri	removed		-356
+1526532476	::1	D	user:17._dlt_for_humanitarian_islamic_financing	mayuri	removed		-384
+1526532486	::1	D	user:blockchain_credit_cards_for_syrian_refugees_in_lebanon	mayuri	removed		-392
+1526532537	::1	D	playground:playground	mayuri	removed		-81
+1526532553	::1	D	discussion:user:blockchain_credit_cards_for_syrian_refugees_in_lebanon	mayuri	removed		-21
+1526532623	::1	C	user:17._dlt_for_humanitarian_islamic_financing	mayuri			384
+1526533733	::1	E	start	mayuri			6
+1526534745	::1	E	start	mayuri			434
+1526534829	::1	E	start	mayuri			0
+1526535531	::1	E	block_chain_credit_cards_for_syrian_refugees_in_lebanon	mayuri			29
+1526535728	::1	E	start	mayuri			7
+1526572532	::1	D	user:17._dlt_for_humanitarian_islamic_financing	mayuri	removed		-384
+1526576806	::1	E	start	mayuri			7
+1526577001	::1	E	start	mayuri			101
+1526577091	::1	E	start	mayuri			1
+1526580075	::1	E	start	mayuri			-109
+1526582337	::1	E	start	mayuri			128
+1526584245	::1	C	playground:playground	mayuri	created		130
+1526584286	::1	E	playground:playground	mayuri			-23
+1526584298	::1	D	playground:playground	mayuri	removed		-107
+1526613118	::1	C	playground:playground	mayuri	created		119
+1526613245	::1	E	playground:playground	mayuri			18
+1526613311	::1	E	playground:playground	mayuri			656
+1526619076	::1	E	playground:playground	mayuri			-443
+1526619190	::1	D	playground:playground	mayuri	removed		-350
+1526623190	::1	E	start	mayuri			-375
+1526627137	::1	E	start	mayuri			727
+1526627254	::1	E	start	mayuri			3
+1526627362	::1	E	start	mayuri			31

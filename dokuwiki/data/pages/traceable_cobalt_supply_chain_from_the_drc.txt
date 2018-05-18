@@ -1,0 +1,22 @@
+======Description of Traceable cobalt supply chain from the DRC project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Fairphone| 
+^ Humanitarian Partner (if different)    |N/A|                    
+^ Sector     |Logistics, Protection        | 
+^ Scope |Human Rights/Global | 
+^ Region | Central Africa| 
+^ Location | Democratic Republic of Congo| 
+^ Stage of Development| Early stage | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform|Own platform| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper|  |
+^ Project page|    |
+^ More information|https://www.fairphone.com/en/2017/11/15/closer-look-efforts-improve-cobalt-sourcing |

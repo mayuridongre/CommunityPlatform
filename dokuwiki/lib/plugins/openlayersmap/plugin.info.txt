@@ -1,0 +1,7 @@
+base    openlayersmap
+author  Mark C. Prins
+email   mprins@users.sf.net
+date    2018-03-09 (4.13)
+name    OpenLayers map plugin for DokuWiki
+desc    Provides a syntax for rendering an OpenLayers based map in a wiki page.. Uses OpenLayers: branch master SHA1 e85a087c8fb857648aa7c5e4f771d1d2a13fc48b
+url     http://www.dokuwiki.org/plugin:openlayersmap

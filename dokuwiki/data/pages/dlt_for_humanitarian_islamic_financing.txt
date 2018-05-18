@@ -1,0 +1,22 @@
+=====Description of Amply Project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | AidTech| 
+^ Humanitarian Partner (if different)    |IFRC |                    
+^ Sector     | Assistance   | 
+^ Scope | Humanitarian/Global| 
+^ Region |Middle East; North Africa| 
+^ Location |Switzerland| 
+^ Stage of Development| Early stage | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform  |N/A| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper| |
+^ Project page|  |
+^ More information| https://media.ifrc.org/ifrc/press-release/ifrc-blockchain-application-wins-global-islamic-finance-competition/|

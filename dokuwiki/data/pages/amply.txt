@@ -1,0 +1,22 @@
+=====Description of Amply Project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Ixo Foundation| 
+^ Humanitarian Partner (if different)    |UNICEF, Innovation Edge|                    
+^ Sector     | Education, Financing, Assistance     | 
+^ Scope | Human Rights/National| 
+^ Region |Southern Africa| 
+^ Location |South Africa| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform  |Ixo Blockchain| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper| |
+^ Project page|http://amply.tech/  |
+^ More information| http://ixo.foundation/|

@@ -1,0 +1,23 @@
+======  Description of the Building Blocks project ======
+
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Datarella and Parity| 
+^ Humanitarian Partner (if different)    | WFP|                    
+^ Sector     |Food Security, Refugees, Assistance          | 
+^ Scope | Humanitarian/Local          | 
+^ Region | Middle East      | 
+^ Location |Pakistan, Jordan     | 
+^ Stage of Development| Field Testing | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform| Ethereum   | 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Framework | 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper|
+^ Project page|http://innovation.wfp.org/project/building-blocks  |
+^ More information| https://unite.un.org/sites/unite.un.org/files/session_2_wfp_building_blocks_20170816_final.pdf |

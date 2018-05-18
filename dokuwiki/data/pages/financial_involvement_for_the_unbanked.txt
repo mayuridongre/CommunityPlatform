@@ -1,0 +1,22 @@
+======Description of Financial Involvement for the Unbanked project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Humaniq| 
+^ Humanitarian Partner (if different)    |N/A|                    
+^ Sector     |Assistance, Protection        | 
+^ Scope |Human Rights/Local| 
+^ Region |Western Africa | 
+^ Location | Ghana| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform|Own platform (based on Ethereum)| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper| |
+^ Project page|     |
+^ More information| https://blog.humaniq.co/humaniq-community-is-born-with-first-two-thousand-app-users-in-ghana-pilot-ahead-of-major-e736c2cc60b|

@@ -1,0 +1,22 @@
+======Description of Thailand - Russia Money Transfer project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Everex| 
+^ Humanitarian Partner (if different)    |Holley (http://www.holley.cn/en/about_intro.php)|                    
+^ Sector     | Assistance, Protection        | 
+^ Scope |Human Rights/Transnational| 
+^ Region |Asia | 
+^ Location |Thailand, Russia| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform|Ethereum| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper| |
+^ Project page|     |
+^ More information| https://www.everex.io/about-us|

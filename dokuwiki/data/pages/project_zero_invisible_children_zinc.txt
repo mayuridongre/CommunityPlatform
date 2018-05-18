@@ -1,0 +1,22 @@
+======Description of Project Zero INvisible Children (ZINC) ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Tykn | 
+^ Humanitarian Partner (if different)    |N/A|                    
+^ Sector     | Refugees, Logistics, Management      | 
+^ Scope | Humanitarian/Local| 
+^ Region |Middle East| 
+^ Location |Lebanon| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform  |Sovrin| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper|https://tykn.tech/wp-content/uploads/2017/08/Refugee-Case-Study-in-Lebanon.pdf |
+^ Project page|http://thespindle.org/project/zinc/  |
+^ More information| https://tykn.tech/|

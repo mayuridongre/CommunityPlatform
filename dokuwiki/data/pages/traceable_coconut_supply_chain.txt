@@ -1,0 +1,22 @@
+======Description of Traceable coconut supply-chain project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Fairfood| 
+^ Humanitarian Partner (if different)    |N/A|                    
+^ Sector     |Logistics, Protection         | 
+^ Scope |Human Rights/Transnational| 
+^ Region | Southeast Asia| 
+^ Location | Indonesia| 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform|Own platform| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper|https://fairfood.nl/wp-content/uploads/2018/01/Position-Paper-On-Blockchains-1.pdf |
+^ Project page| https://fairfood.nl/en/blockchain/    |
+^ More information|https://fairfood.nl/wp-content/uploads/2018/01/Position-Paper-On-Blockchains-1.pdf |

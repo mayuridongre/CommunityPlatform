@@ -1,0 +1,22 @@
+======Description of Diamond supply chains project ======
+\\ 
+
+
+|              ^ Details            ^ 
+^ Developer    | Everledger | 
+^ Humanitarian Partner (if different)    |N/A|                    
+^ Sector     | Logistics, Protection        | 
+^ Scope |Humanitarian/Global | 
+^ Region | Global       | 
+^ Location | Global | 
+^ Stage of Development| Rolled out | 
+^ Nodes active (if any)|  | 
+^ Users active|  | 
+^ Platform|Hyperledger| 
+^ Data Strategy | Unknown  | 
+^ Data Protection | Unknown| 
+^ Academic research / Paper |  
+^ Source Code|Undisclosed| 
+^ White Paper|
+^ Project page||
+^ More information|https://www.entrepreneur.com/article/283532 |
