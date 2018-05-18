@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+"Welcome to Community Humanitarian Blockchain Platform
 
-You can use the [editor on GitHub](https://github.com/mayuridongre/CommunityPlatform/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# List of Projects
 
-- Bulleted
-- List
+1.Blockchain credit cards for Syrian refugees in Lebanon
+2.Blockchain donations for victims of Italian earthquakes
+3.Building Blocks
+4.Smartcash in Venezuela
+5.Tracking tuna on the blockchain
+6.Diamond supply chains
+7.Traceable cobalt supply chain from the DRC
+8.Traceable coconut supply chain
+9.Digital identity for refugees
+10.Land-mapping in Latin America
+11.Financial Involvement for the Unbanked
+12.Myanmar - Thailand Money Transfers
+13.Thailand - Russia Money Transfer
+14.Financial Transparency for education
+15.Project Zero Invisible Children (ZINC)
+16.Amply
+17.DLT for Humanitarian Islamic Financing
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayuridongre/CommunityPlatform/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
